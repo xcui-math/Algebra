@@ -24,16 +24,16 @@ Calculus and linear algebra.
 
 The official textbook is 
 
-+[代数（原书第二版）](http://product.dangdang.com/23606656.html)，Michael Artin著，姚海楼，平艳茹译，机械工业出版社，2017年。
++ [代数（原书第二版）](http://product.dangdang.com/23606656.html)，Michael Artin著，姚海楼，平艳茹译，机械工业出版社，2017年。
 
 You are strongly encouraged to take a look at the [English version](http://product.dangdang.com/22594004.html).
 
 Further Chinese references are:
-+《近世代数（第二版）》，韩士安，林磊，科学出版社。
-+《近世代数习题解答》，韩士安，林磊，科学出版社，2010年。
-+《近世代数》，丘维声，北京大学出版社，2015 年。
-+《近世代数导引》，刘绍学，章璞，高等教育出版社，2011。
-+《近世代数三百题》，冯克勤、章璞，高等教育出版社，2010。
++ 《近世代数（第二版）》，韩士安，林磊，科学出版社。
++ 《近世代数习题解答》，韩士安，林磊，科学出版社，2010年。
++ 《近世代数》，丘维声，北京大学出版社，2015 年。
++ 《近世代数导引》，刘绍学，章璞，高等教育出版社，2011。
++ 《近世代数三百题》，冯克勤、章璞，高等教育出版社，2010。
 
 ### Exams & Scores
 
